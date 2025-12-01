@@ -6,11 +6,11 @@ This is my first MCP server where I can get the current weather in each city.
 
 ### Locally
 
-[Open video in new tab](media/weather_mcp_server_running_locally.mp4){target="_blank"}
+[Check video here](media/weather_mcp_server_running_locally.mp4)
 
 ### In ChatGPT chat
 
-[Open video in new tab](media/weather_mcp_server_in_chatgpt.mp4){target="_blank"}
+[Check video here](media/weather_mcp_server_in_chatgpt.mp4)
 
 
 ## Quick overview
