@@ -6,17 +6,11 @@ This is my first MCP server where I can get the current weather in each city.
 
 ### Locally
 
-<video width="800" controls>
-  <source src="media/weather_mcp_server_running_locally.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Open video in new tab](media/weather_mcp_server_running_locally.mp4){target="_blank"}
 
 ### In ChatGPT chat
 
-<video width="800" controls>
-  <source src="media/weather_mcp_server_in_chatgpt.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>  
+[Open video in new tab](media/weather_mcp_server_in_chatgpt.mp4){target="_blank"}
 
 
 ## Quick overview
